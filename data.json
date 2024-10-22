@@ -1,0 +1,34 @@
+[
+    {
+        "books":[
+            {
+                "id" : 1,
+                "name" : "Los 7 libros que la gente altamente efectiva",
+                "autor" : "Bryan De Jesus Rosa Tavarez",
+                "year" : "2023"
+
+            },
+            {
+                "id" : 2,
+                "name" : "Habitos atomicos",
+                "autor" : "Nathalie Maria Garcia Valdez",
+                "year" : "1992"
+
+            }
+        ]
+    },
+    {
+        "users":[
+            {
+                "id" : 1,
+                "name" : "bryandejesus",
+                "coreo" : "bryandejesusrt@gmail.com"
+            },
+            {
+                "id" : 2,
+                "name" : "nathaliemariagv",
+                "coreo" : "nathaliemariagv@gmail.com"
+            }
+        ]
+    }
+]
